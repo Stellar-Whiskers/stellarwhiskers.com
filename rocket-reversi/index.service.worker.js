@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1731981851|16880115190';
+const CACHE_VERSION = '1734804092|157735679';
 /** @type {string} */
 const CACHE_PREFIX = 'Rocket Reversi-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
