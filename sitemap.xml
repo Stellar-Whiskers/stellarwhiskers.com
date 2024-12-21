@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.stellarwhiskers.com/</loc>
+    <lastmod>2024-12-21</lastmod>
   </url>
   <url>
     <loc>https://www.stellarwhiskers.com/rocket-reversi/</loc>
+    <lastmod>2024-12-21</lastmod>
   </url>
+  <url>
+    <loc>https://www.stellarwhiskers.com/crystalign/</loc>
+    <lastmod>2024-12-21</lastmod>
+  </url>
+
 </urlset>
